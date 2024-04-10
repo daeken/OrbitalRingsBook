@@ -1,11 +1,12 @@
-# Welcome to your Jupyter Book
+# Orbital Rings
+## Space Within Reach
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book is an attempt to realistically approach orbital ring systems. To do that, there are four sections:
 
-Check out the content pages bundled with this sample book to see more.
+1. What are orbital rings? Why do we want them?
+2. What are the technical challenges? How do we solve them?
+3. How do we build and grow the orbital ring system?
+4. What are the legal, political, and economic challenges and how do we approach them?
 
 ```{tableofcontents}
 ```
