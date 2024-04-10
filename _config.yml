@@ -3,6 +3,7 @@
 
 title: "Orbital Rings: Space Within Reach"
 author: Sera Brocious
+copyright: 2024
 logo: logo.png
 
 # DON'T: Force re-execution of notebooks on each build.
@@ -28,5 +29,6 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
+  #use_issues_button: true
   use_repository_button: true
+  favicon: logo.png
