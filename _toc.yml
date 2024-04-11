@@ -5,6 +5,10 @@ parts:
       chapters:
           - file: what-are-orbital-rings
     - caption: "Technical Aspects"
+      chapters: []
     - caption: "How Do We Build The First Ring?"
+      chapters: []
     - caption: "How Do We Grow?"
+      chapters: []
     - caption: "Non-Technical Challenges"
+      chapters: []
