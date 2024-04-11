@@ -2,9 +2,15 @@ format: jb-book
 root: intro
 parts:
     - caption: "Part I. Introduction: The whats and whys of orbital rings"
+      numbered: true
       chapters:
           - file: what-are-orbital-rings
+          - file: solar-power
     #- caption: "Part II. Technical Aspects"
+    #  numbered: true
     #- caption: "Part III. How Do We Build The First Ring?"
+    #  numbered: true
     #- caption: "Part IV. How Do We Grow?"
+    #  numbered: true
     #- caption: "Part V. Non-Technical Challenges"
+    #  numbered: true
