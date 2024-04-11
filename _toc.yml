@@ -4,11 +4,7 @@ parts:
     - caption: "Introduction -- The whats and whys of orbital rings"
       chapters:
           - file: what-are-orbital-rings
-    - caption: "Technical Aspects"
-      chapters: []
-    - caption: "How Do We Build The First Ring?"
-      chapters: []
-    - caption: "How Do We Grow?"
-      chapters: []
-    - caption: "Non-Technical Challenges"
-      chapters: []
+    #- caption: "Technical Aspects"
+    #- caption: "How Do We Build The First Ring?"
+    #- caption: "How Do We Grow?"
+    #- caption: "Non-Technical Challenges"
