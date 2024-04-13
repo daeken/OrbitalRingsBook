@@ -15,13 +15,13 @@ This is a simplified model -- a more advanced ring would have multiple rotors fo
 These are obviously extremely complex, massive structures. They'll cost a lot of money to build, though not as much as you might be thinking right now, so we need to justify that cost somehow. While this list is by no means inclusive and we'll go into much more detail on these elements later in this book, here are a few of the things orbital rings enable:
 
 - Comfortable, inexpensive travel between almost any two points on the Earth in under two and a half hours, with most routes taking an hour or less.
-- Solar power that costs orders of magnitude less than any terrestrial source.
+- Solar power that costs an order of magnitude less than any terrestrial source.
 - Nearly free space launches with zero emissions.
 - Telescopes outside of the bulk of the atmosphere, without needing to build them for the rigors of space travel or worry about making them lightweight.
 - High-speed, low-latency wireless communication worldwide.
 - The average person would be able to go to space. Not as a once-in-a-lifetime experience, but so regularly that it could be a part of their daily, intercontinental commute.
 
-All of these are great, for obvious reasons, but they only scrape the surface. We'll get into much more detail soon, but let me give you one final teaser: **A fully deployed orbital ring system would let us reduce our CO2 emissions by 50%,** not even counting the CO2 we could pull out of the atmosphere given such inexpensive power.
+All of these are great, for obvious reasons, but they only scrape the surface. We'll get into much more detail soon, but let me give you one final teaser: **A fully deployed orbital ring system would let us reduce our CO<sub>2</sub> emissions by 50%,** not even counting the CO<sub>2</sub> we could pull out of the atmosphere given such inexpensive power.
 
 ## The Bottom Line
 

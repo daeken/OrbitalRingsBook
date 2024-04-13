@@ -6,8 +6,11 @@ parts:
       chapters:
           - file: what-are-orbital-rings
           - file: solar-power
-    #- caption: "Part II. Technical Aspects"
-    #  numbered: true
+          - file: co2-reduction
+    - caption: "Part II. Technical Aspects"
+      numbered: true
+      chapters:
+          - file: tethers
     #- caption: "Part III. How Do We Build The First Ring?"
     #  numbered: true
     #- caption: "Part IV. How Do We Grow?"
