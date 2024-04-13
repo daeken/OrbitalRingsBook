@@ -31,6 +31,11 @@ jobs:
       run: |
         jupyter-book build .
 
+    # Copy static assets
+    - name: Copy static assets
+      run: |
+        cp -r static/* _build/html
+
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
