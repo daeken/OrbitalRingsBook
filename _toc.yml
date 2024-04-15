@@ -11,6 +11,7 @@ parts:
       numbered: true
       chapters:
           - file: tethers
+          - file: ring-positioning
     #- caption: "Part III. How Do We Build The First Ring?"
     #  numbered: true
     #- caption: "Part IV. How Do We Grow?"
