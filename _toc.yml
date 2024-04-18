@@ -5,8 +5,12 @@ parts:
       numbered: true
       chapters:
           - file: what-are-orbital-rings
+          - file: transportation
           - file: solar-power
           - file: co2-reduction
+          - file: communication
+          - file: astronomy-and-hospitality
+          - file: space-travel
     - caption: "Part II. Technical Aspects"
       numbered: true
       chapters:
