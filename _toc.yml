@@ -16,9 +16,15 @@ parts:
       chapters:
           - file: tethers
           - file: ring-positioning
-    #- caption: "Part III. How Do We Build The First Ring?"
-    #  numbered: true
-    #- caption: "Part IV. How Do We Grow?"
-    #  numbered: true
-    #- caption: "Part V. Non-Technical Challenges"
-    #  numbered: true
+    - caption: "Part III. How Do We Build The First Ring?"
+      numbered: true
+      chapters:
+          - file: minimum-viable-ring
+    - caption: "Part IV. How Do We Grow?"
+      numbered: true
+      chapters:
+          - file: bulking
+    - caption: "Part V. Non-Technical Challenges"
+      numbered: true
+      chapters:
+          - file: geopolitics
