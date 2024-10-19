@@ -16,6 +16,11 @@ parts:
       chapters:
           - file: tethers
           - file: ring-positioning
+          - file: rotors
+          - file: platforms
+          - file: climbers
+          - file: precession
+          - file: safety
     - caption: "Part III. How Do We Build The First Ring?"
       numbered: true
       chapters:
